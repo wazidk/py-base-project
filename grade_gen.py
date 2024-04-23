@@ -22,4 +22,3 @@ else: print("You Enter Wrong Mark")
 
 
 print(Student_Name + " pass  the mark of " + str(Subject_marks) + " of the grade " + mark + " in the subject " + Subject_name + ".")
-python myenv/Scripts/activate
