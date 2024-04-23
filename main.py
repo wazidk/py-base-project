@@ -1,24 +1,8 @@
-f_name = "Wazid"
-student ={
-    "name": 
-    {
-        "first_name": f_name,
-        "last_name": "Doe"
-    },
-    "address":
-    {
-        "city": "New York",
-        "state": "NY"
-    },
-    "phone":
-    {
-        "home": "212-555-1234",
-        "mobile": "646-555-4567"
-    },
-    "email": "Wazidkhan@gamil.com",
-    "gender": "Male" ,
-    "age": 25
-}
-
-print(student["phone"]["home"])
-print(student["phone"]["mobile"])
+loop =30
+distribute = 1 
+while distribute == loop :
+        n = int(input("Input a Number ----->> "))
+        range = int(input("Input Range  ----->> "))
+        print(str(distribute) + " of " + str(loop))
+        start = 1
+        distribute =+ 1 
